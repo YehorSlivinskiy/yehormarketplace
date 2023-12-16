@@ -4,7 +4,7 @@ let id = urlParams.get("id");
 let profile = document.querySelector(".profile");
 let profileGrid = document.querySelector(".seller-products-grid");
 
-let url = "https://my-json-server.typicode.com/YehorSlivinsliy/yehormarketplace/";
+let url = "https://my-json-server.typicode.com/YehorSlivinskiy/yehormarketplace/";
 
 let xhr = new XMLHttpRequest();
 xhr.open("GET", `${url}users/${id}`);

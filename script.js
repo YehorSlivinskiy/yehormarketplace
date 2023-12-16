@@ -1,7 +1,7 @@
 let productsGrid = document.querySelector(".product-grid")
 let productsArray = []
 let xhr = new XMLHttpRequest()
-let url = "https://my-json-server.typicode.com/YehorSlivinsliy/yehormarketplace/db"
+let url = "https://my-json-server.typicode.com/YehorSlivinskiy/yehormarketplace/db"
 
 xhr.open("GET", url)
 xhr.responseType = "json"

@@ -2,7 +2,7 @@
     "products": [
         {
           "name": "Carrot",
-          "img": "https://raw.githubusercontent.com/YehorSlivinsliy/yehormarketplace/main/img/e56f0ef1ed61bf011aab7e11956666e4.jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/e56f0ef1ed61bf011aab7e11956666e4.jpg",
           "price": "1.99",
           "description": "Fresh orange carrot",
           "author_id": "1",
@@ -10,7 +10,7 @@
         },
         {
           "name": "Broccoli",
-          "img": "https://raw.githubusercontent.com/YehorSlivinsliy/yehormarketplace/main/img/Fresh-Slicing-Tomato-Each_a1e8e44a-2b82-48ab-9c09-b68420f6954c.04f6e0e87807fc5457f57e3ec0770061.webp",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/Fresh-Slicing-Tomato-Each_a1e8e44a-2b82-48ab-9c09-b68420f6954c.04f6e0e87807fc5457f57e3ec0770061.webp",
           "price": "2.49",
           "description": "Green and healthy broccoli",
           "author_id": "1",
@@ -18,7 +18,7 @@
         },
         {
           "name": "Tomato",
-          "img": "img/h1218g16207258089583.jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/image-w1280.webp",
           "price": "0.99",
           "description": "Juicy red tomato",
           "author_id": "2",
@@ -26,7 +26,7 @@
         },
         {
           "name": "Cucumber",
-          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/image-w1280.webp",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/image-w1280.webp",
           "price": "1.49",
           "description": "Crunchy green cucumber",
           "author_id": "2",
@@ -34,7 +34,7 @@
         },
         {
           "name": "Spinach",
-          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження (1).jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/завантаження (1).jpg",
           "price": "1.79",
           "description": "Nutritious spinach leaves",
           "author_id": "3",
@@ -44,21 +44,21 @@
     "users":[
         {
           "name": "John",
-          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження (2).jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/завантаження (2).jpg",
           "Surname": "Doe",
           "balance": "5000",
           "id": "1"
         },
         {
           "name": "Emily",
-          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження (3).jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/завантаження (3).jpg",
           "Surname": "Smith",
           "balance": "3500",
           "id": "2"
         },
         {
           "name": "David",
-          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження.jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinskiy/yehormarketplace/main/img/завантаження.jpg",
           "Surname": "Johnson",
           "balance": "4200",
           "id": "3"

@@ -108,3 +108,32 @@ header {
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
 }
+
+.cart {
+    position: relative;
+}
+
+#cart-products {
+    display: flex;
+    position: absolute;
+    background-color: gray;
+    min-width: 300px;
+    top: 50px;
+    right: -5px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+#cart-products::after {
+    content: "";
+    border: transparent solid 16px;
+    position: relative;
+    top: -35px;
+    border-bottom-color: gray;
+    left: 160px;
+}
+
+.hide {
+    display: none !important;
+}
