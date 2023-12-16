@@ -2,160 +2,66 @@
     "products": [
         {
           "name": "Carrot",
-          "img": "https://example.com/carrot.jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinsliy/yehormarketplace/main/img/e56f0ef1ed61bf011aab7e11956666e4.jpg",
           "price": "1.99",
-          "description": "Fresh and crunchy carrot",
-          "author_id": "12345",
-          "id": "1"
-        },
-        {
-          "name": "Tomato",
-          "img": "https://example.com/tomato.jpg",
-          "price": "0.99",
-          "description": "Juicy and ripe tomato",
-          "author_id": "67890",
-          "id": "2"
+          "description": "Fresh orange carrot",
+          "author_id": "1",
+          "id": "98765"
         },
         {
           "name": "Broccoli",
-          "img": "https://example.com/broccoli.jpg",
+          "img": "https://raw.githubusercontent.com/YehorSlivinsliy/yehormarketplace/main/img/Fresh-Slicing-Tomato-Each_a1e8e44a-2b82-48ab-9c09-b68420f6954c.04f6e0e87807fc5457f57e3ec0770061.webp",
           "price": "2.49",
-          "description": "Nutritious and green broccoli",
-          "author_id": "54321",
-          "id": "3"
+          "description": "Green and healthy broccoli",
+          "author_id": "1",
+          "id": "56789"
+        },
+        {
+          "name": "Tomato",
+          "img": "img/h1218g16207258089583.jpg",
+          "price": "0.99",
+          "description": "Juicy red tomato",
+          "author_id": "2",
+          "id": "43210"
         },
         {
           "name": "Cucumber",
-          "img": "https://example.com/cucumber.jpg",
+          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/image-w1280.webp",
           "price": "1.49",
-          "description": "Cool and refreshing cucumber",
-          "author_id": "09876",
-          "id": "4"
+          "description": "Crunchy green cucumber",
+          "author_id": "2",
+          "id": "34567"
         },
         {
           "name": "Spinach",
-          "img": "https://example.com/spinach.jpg",
+          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження (1).jpg",
           "price": "1.79",
-          "description": "Leafy and healthy spinach",
-          "author_id": "54321",
-          "id": "5"
-        },
-        {
-          "name": "Bell Pepper",
-          "img": "https://example.com/bellpepper.jpg",
-          "price": "1.29",
-          "description": "Colorful and crunchy bell pepper",
-          "author_id": "12345",
-          "id": "6"
-        },
-        {
-          "name": "Onion",
-          "img": "https://example.com/onion.jpg",
-          "price": "0.79",
-          "description": "Flavorful and versatile onion",
-          "author_id": "67890",
-          "id": "7"
-        },
-        {
-          "name": "Potato",
-          "img": "https://example.com/potato.jpg",
-          "price": "0.69",
-          "description": "Starchy and filling potato",
-          "author_id": "54321",
-          "id": "8"
-        },
-        {
-          "name": "Zucchini",
-          "img": "https://example.com/zucchini.jpg",
-          "price": "1.99",
-          "description": "Mild and tender zucchini",
-          "author_id": "09876",
-          "id": "9"
-        },
-        {
-          "name": "Mushroom",
-          "img": "https://example.com/mushroom.jpg",
-          "price": "2.99",
-          "description": "Savory and meaty mushroom",
-          "author_id": "12345",
-          "id": "10"
+          "description": "Nutritious spinach leaves",
+          "author_id": "3",
+          "id": "87654"
         }
       ],
-
-    "users": [
+    "users":[
         {
           "name": "John",
-          "img": "https://example.com/john.jpg",
+          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження (2).jpg",
           "Surname": "Doe",
-          "balance": "1000",
-          "id": "1234567890"
-        },
-        {
-          "name": "Jane",
-          "img": "https://example.com/jane.jpg",
-          "Surname": "Smith",
-          "balance": "500",
-          "id": "0987654321"
-        },
-        {
-          "name": "Mike",
-          "img": "https://example.com/mike.jpg",
-          "Surname": "Johnson",
-          "balance": "750",
-          "id": "5432109876"
-        },
-        {
-          "name": "Sarah",
-          "img": "https://example.com/sarah.jpg",
-          "Surname": "Williams",
-          "balance": "1200",
-          "id": "6789054321"
-        },
-        {
-          "name": "David",
-          "img": "https://example.com/david.jpg",
-          "Surname": "Brown",
-          "balance": "900",
-          "id": "2345678901"
+          "balance": "5000",
+          "id": "1"
         },
         {
           "name": "Emily",
-          "img": "https://example.com/emily.jpg",
-          "Surname": "Taylor",
-          "balance": "600",
-          "id": "8901234567"
+          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження (3).jpg",
+          "Surname": "Smith",
+          "balance": "3500",
+          "id": "2"
         },
         {
-          "name": "Chris",
-          "img": "https://example.com/chris.jpg",
-          "Surname": "Anderson",
-          "balance": "1100",
-          "id": "3456789012"
-        },
-        {
-          "name": "Jessica",
-          "img": "https://example.com/jessica.jpg",
-          "Surname": "Thomas",
-          "balance": "850",
-          "id": "9012345678"
-        },
-        {
-          "name": "Andrew",
-          "img": "https://example.com/andrew.jpg",
-          "Surname": "White",
-          "balance": "950",
-          "id": "4567890123"
-        },
-        {
-          "name": "Olivia",
-          "img": "https://example.com/olivia.jpg",
-          "Surname": "Harris",
-          "balance": "1300",
-          "id": "0123456789"
+          "name": "David",
+          "img": "https://raw.githubusercontent.com/Bsenichak/marketplace/main/img/завантаження.jpg",
+          "Surname": "Johnson",
+          "balance": "4200",
+          "id": "3"
         }
       ]
-
-    
 }
-
-
